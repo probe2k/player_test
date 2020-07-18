@@ -1,0 +1,7 @@
+lib/keys.dart
+
+.dart_tool/
+.flutter*
+.idea/
+.metadata
+.packages
